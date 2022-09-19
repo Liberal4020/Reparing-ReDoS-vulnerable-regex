@@ -1,16 +1,46 @@
 open Lib
-
-let input = "(([^a])*)(([p])*)"
-
 (* "<span[^>]*font-style:italic[^>]*>" *)
+(* let input = "a|b" *)
 
-let _ = print_endline input
+(* let input = read_line () *)
+
+let read_file name =
+  let ic = open_in name in
+  let lines = ref [] in
+  begin
+    try while true do lines := input_line ic :: !lines done
+    with End_of_file -> close_in ic
+  end;
+  List.rev !lines
+
+let input1 = List.hd (read_file "./bin/regex1.txt")
+
+let input2 = List.hd (read_file "./bin/regex2.txt")
+
+
 
 let alphabet_set = Parser.Charset.union (Parser.Charset.range 'a' 'z') (Parser.Charset.of_list ['<'; '>'; '-'; ':'])
 
-let pr_input = input |> Util.replace "?:" "" |> Parser.parse |> Pure_regexp_in.of_regexp alphabet_set
+let pr_input1 = input1 |> Util.replace "?:" "" |> Util.replace "?!" "" |> Parser.parse |> Pure_regexp_in.of_regexp alphabet_set
 
-let _= print_endline (pr_input |> Pure_regexp_in.string_of_pure_regexp_in)
+let pr_input2 = input2 |> Util.replace "?:" "" |> Util.replace "?!" "" |> Parser.parse |> Pure_regexp_in.of_regexp alphabet_set
+
+
+
+
+
+
+let oc = open_out "../regeq/src/input.txt"
+
+let _ = Printf.fprintf oc "%s\n" (pr_input1 |> Pure_regexp_in.string_of_pure_regexp_in)
+
+let _ = Printf.fprintf oc "%s\n" (pr_input2 |> Pure_regexp_in.string_of_pure_regexp_in)
+
+
+let _ = close_out oc
+
+
+
 
 
 (* let pr_output = Transformer.transform (Parser.Charset.explode alphabet_set) pr_input
