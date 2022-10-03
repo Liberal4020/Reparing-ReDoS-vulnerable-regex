@@ -1,0 +1,9 @@
+<span[^>]*front-style:italic[^>]*>
+<span front-style:italic >
+<span abc front-style:italic abc >
+<span zbeapojewatunawieyaooujbnmzwq front-style:italic abc >
++++
+<span abc front-style:italic>>
+<span>front-style:italic abc >
+<span>>front-style:italic>>>>>
+---
