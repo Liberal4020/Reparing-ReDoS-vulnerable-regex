@@ -31,5 +31,13 @@ let rec range m n = if m >= n then [] else m :: (range (m + 1) n)
 
 let product xs ys = List.flatten (List.map (fun x -> List.map (fun y -> (x, y)) ys) xs)
 
+(* add *)
+
 let replace input output =
     Str.global_replace (Str.regexp_string input) output
+
+let contains s1 s2 =
+    let re = Str.regexp_string s2
+    in
+        try ignore (Str.search_forward re s1 0); true
+        with Not_found -> false
