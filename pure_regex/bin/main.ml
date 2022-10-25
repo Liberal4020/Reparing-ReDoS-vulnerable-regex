@@ -21,11 +21,15 @@ let input2 = List.hd (read_file "./bin/regex2.txt")
 
 let alphabet_set = Parser.Charset.union (Parser.Charset.range 'a' 'z') (Parser.Charset.of_list ['<'; '>'; '-'; ':'])
 
-let if_is_failure global_string = if Util.contains global_string "(?!.)." then else
+(* let if_is_failure global_string = if Util.contains global_string "(?!.)." then else *)
 
-let pr_input1 = input1 |> Util.replace "?:" "" |> Util.replace "?!" "" |> Parser.parse |> Pure_regexp_in.of_regexp alphabet_set
+(* let pr_input1 = input1 |> Util.replace "?:" "" |> Util.replace "?!" "" |> Parser.parse |> Pure_regexp_in.of_regexp alphabet_set
 
-let pr_input2 = input2 |> Util.replace "?:" "" |> Util.replace "?!" "" |> Parser.parse |> Pure_regexp_in.of_regexp alphabet_set
+let pr_input2 = input2 |> Util.replace "?:" "" |> Util.replace "?!" "" |> Parser.parse |> Pure_regexp_in.of_regexp alphabet_set *)
+
+let pr_input1 = input1 |> Util.replace "?:" "" |> Parser.parse |> Pure_regexp_in.of_regexp_for_failure alphabet_set
+
+let pr_input2 = input2 |> Util.replace "?:" "" |> Parser.parse |> Pure_regexp_in.of_regexp_for_failure alphabet_set
 
 
 

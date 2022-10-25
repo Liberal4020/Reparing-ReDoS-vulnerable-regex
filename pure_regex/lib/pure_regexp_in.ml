@@ -63,7 +63,7 @@ let string_of_regexp alphabet_set =
     | Parser.Wordboundary -> raise (Failure "") (* ?? *)
 in of_regexp'
 
-let of_regexp_for_failure alphabet_set bool =
+let of_regexp_for_failure alphabet_set =
   let rec of_regexp' = function
     | Parser.Char(c) -> Chars [c]
     | Parser.String(s) -> String (explode s)
@@ -72,14 +72,16 @@ let of_regexp_for_failure alphabet_set bool =
                                                 |> List.map Char.escaped
                                                 |> String.concat "|"
                                                 |> explode)
-
-    | Parser.Seq(rs) -> if List.exists (fun x -> contains x "(?!.).") (List.map (string_of_regexp alphabet_set) rs) then raise (Failure "") else Concat (List.map of_regexp' rs)
-
+    | Parser.Seq(rs) -> if List.exists (fun x -> contains x "(?!.).") (List.map (string_of_regexp alphabet_set) rs) 
+                        then raise (Failure "a")
+                        else Concat (List.map of_regexp' rs)
+    (* | Parser.Seq(rs) -> if List.exists (fun x -> contains x "(?!.).") (List.map (string_of_regexp alphabet_set) rs) 
+                          then let () = List.iter print_endline (List.map (string_of_regexp alphabet_set) rs) in raise (Failure "a")
+                          else let () = List.iter print_endline (List.map (string_of_regexp alphabet_set) rs) in Concat (List.map of_regexp' rs) *)
     | Parser.Alt(r1, r2) -> if contains (string_of_regexp alphabet_set r1) "(?!.)."
                               && contains (string_of_regexp alphabet_set r2) "(?!.)."
-                            then raise (Failure "") else Alter [of_regexp' r1; of_regexp' r2]
-    (* | Parser.Star(r) -> Star ((of_regexp' r) |> List.cons '(' |> List.rev |> List.cons ')' |> List.rev) *)
-    | Parser.Star(r) -> Star (of_regexp' r)
+                            then raise (Failure "b") else Alter [of_regexp' r1; of_regexp' r2]
+    | Parser.Star(r) -> if contains (string_of_regexp alphabet_set r) "(?!.)." then Concat [] else let () = string_of_regexp alphabet_set r |> print_endline in Star (of_regexp' r)
     | Parser.Plus(r) -> let pr = of_regexp' r in Concat [pr; Star(pr)]
     | Parser.Option(r) -> Alter [Concat []; of_regexp' r]
     | Parser.Group(_, r) -> of_regexp' r (* back-reference *)
