@@ -63,7 +63,7 @@ let string_of_regexp alphabet_set =
     | Parser.Wordboundary -> raise (Failure "") (* ?? *)
 in of_regexp'
 
-let of_regexp_for_failure alphabet_set =
+(* let of_regexp_for_failure alphabet_set =
   let rec of_regexp' = function
     | Parser.Char(c) -> Chars [c]
     | Parser.String(s) -> String (explode s)
@@ -89,7 +89,7 @@ let of_regexp_for_failure alphabet_set =
     | Parser.Bol -> raise (Failure "") (* ?? *)
     | Parser.Eol -> raise (Failure "") (* ?? *)
     | Parser.Wordboundary -> raise (Failure "") (* ?? *)
-in of_regexp'
+in of_regexp' *)
 
 
 

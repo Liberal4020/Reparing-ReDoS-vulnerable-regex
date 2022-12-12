@@ -1,0 +1,4 @@
+<span[^>]*font-style:italic[^>]*>
+No such plugin installed: .+ - update failed
+\\( state (.*) \\)
+.*=(\\d+)

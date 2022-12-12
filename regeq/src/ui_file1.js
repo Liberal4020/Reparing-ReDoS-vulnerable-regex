@@ -58,9 +58,12 @@ function union(l1, l2) {
 
 function update() {
   // hideAll();
+  // \s is <space>, g is for all matched strings.
+  // var m1 = parse(lines[0].replace(/\s/g, ''));
+  var m1 = parse(lines[0]);
 
-  var m1 = parse(lines[0].replace(/\s/g, ''));
-  var m2 = parse(lines[1].replace(/\s/g, ''));
+  // var m2 = parse(lines[1].replace(/\s/g, ''));
+  var m2 = parse(lines[1]);
 
   if (!m1 || !m2) {
     if (!m1 && !m2) {

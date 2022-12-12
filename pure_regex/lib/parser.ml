@@ -131,11 +131,14 @@ end
 
 (* The character class corresponding to `.' *)
 
-let dotclass = Charset.complement (Charset.singleton '\n')
+(* let dotclass = Charset.complement (Charset.singleton '\n') *)
+
+(* let dotclass = Charset.union (Charset.range 'a' 'z') (Charset.of_list ['<'; '>'; '-'; ':']) *)
 
 (* Parse a regular expression *)
 
-let parse s =
+(* let parse s = *)
+let parse dotclass s =
   let len = String.length s in
   let group_counter = ref 1 in
 

@@ -1,0 +1,110 @@
+<span[^>]*font-style:italic[^>]*>
+(.*?)[A|N|T]
+You need to qualify.* with one or more platforms
+<div[^>]*>
+#!.*python
+Cannot join #test.*locked
+Server homepage.* is UP
+ *, *
+POST.*example
+<a href='(.*)' on
+<area shape="rect".*<img src="data:image/png
+not.*String
+argv 1:.*path/to/deep.js
+<input.*?>(.*?)</input>
+<.*?br/>
+select(.*)elements_from_page_selector(.*)option
+Expected configuration value apiKey to be defined.*stripe-connect
+.*Ultra-4
+GNU Library Public License .*?version 1
+EOS.*dictionary value
+Archives</a></h3>(.*)<h3><a id="mailinglists"
+<form[^>]*action="/admin/blog_posts/
+We were unable to parse.*Styled Components
+unknown option:.*bar
+<div align=left>(.*?)</div>
+Could not find class.*Foosrs
+Called #unwrap_err! on #<Opted::Result::Ok:.* @value="hello">
+TypeError.*minsize assert
+.*_([0-9]*)
+In.*1
+Deleting all authorizations associated with your account.*done
+<td COLSPAN=2 BGCOLOR=#FFFFFF>(.*?)</td>
+permission.* could not be found
+The provided downloadable cartridge 'manifest://test' cannot be loaded.+Name is a required element
+cannot specify.*--puppet-dev.*and.*--puppet-version
+<body.*>(.*)</body>
+A.*=>.*B.*=>.*A
+0*(([0-9])|([1-9][0-9])|([1-4][0-9][0-9])|500)%
+Tracing.*started
+import.*Foo.*from './foo.pipe'
+<table.*</TABLE>
+applying.*?jquery.*?script
+<title[^>]*>(.*?)</title>
+client host.*blocked
+<rect.*? x="(.*?)".*?/>
+Name.*string
+List.*.of_
+select .* from time
+PlayBook.*?RIM Tablet
+-o.*--option=VALUE.*Message about option
+Can't locate object method "(.*?)" via package
+erb_start.*erb to widget with widget widget, name Josephine.*erb_end
+RuntimeError: .*sudo!.*Command failed. false
+The screenshot .* is not a valid image
+table test_table has no column named wrong_column.*code 1.*while compiling: INSERT INTO test_table
+@yield[(]['](.*?)['][)]
+<!DOCTYPE svg[^>]*>
+disable_per_environment_manifest.*true.*environment.conf.*does not match the default_manifest
+NetSuite::Records::CashRefund with OPTIONS=(.*) could not be found
+filename.*string
+android.*applewebkit
+<!--REPEAT_SP-->(.*)<!--END_REPEAT_SP-->
+Unable.*coolio.*No module
+<div>(.*?)</div>
+Debugger listening on .*:9000
+ *([^<]*) *<([^>]*)> *
+to.*did 
+body.*:index=>.*:operator_class=>"text_pattern_ops"
+This is just a test.*Paragraph number two
+.*foo
+It works from file!.*It works_from_file
+[^:]*:
+Enqueued Dynflow::SampleJob.*at.*UTC
+<value>(.*)</value>
+.*static
+<script .*?</script>
+<(u)>(.*?)<(/(u))>
+level of log file:.* must be one of: debug, info, notice, warn, error, fatal, any; received foo
+.*_count
+Can't connect to .* MySQL server
+Gear Size: .*default
+sed.*VITO_PORT
+<a[^>]* class="remove_nested_fields"[^>]*>
+<img.*src="(.*)".*/>
+Dummy, here is it: #<Person:.*>
+<(named-content.*?)>
+Updating 1 viewer to domain .*There is more than one member team named 'testteam'
+package .*;
+<td(.*?)>
+ *none *
+NOTICE.*Finished: command '.*' with 0 failures
+<script[^>]*>(.*?)</script>
+<strong>(.*?)</strong>
+DEBUG.*Fetched room list
+the (.*) page for 
+<borders([^>]*)>.*</borders>
+this will run inside a clean "(.*)" directory
+.*Fans
+you're (.*), robot
+<table(.*?)>
+c_int_4.*limit:
+github.com.*blob
+hex_.*_quoted
+.*/steamapps
+.*?<(.*?)>
+mainquercrit(.*)qury
+starting.*9x9
+class ShowSourceTestClass.*?def alpha
+Elle Macpherson.*Jessica-Jane Clement.*Kate Moss.*Katie Price
+(<[^>]*?>)

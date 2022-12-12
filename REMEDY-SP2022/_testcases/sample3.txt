@@ -1,0 +1,8 @@
+.*(?=[ ]*[;]).*
+abcdef ghijklmnopqrstuvwxyz;
+;;;;  ;; ;;
+bcde;    ;feawb
++++
+abcdefghijklmnopqrstuvwxyz
+bepoajwuewapupjaowefpwaut
+---

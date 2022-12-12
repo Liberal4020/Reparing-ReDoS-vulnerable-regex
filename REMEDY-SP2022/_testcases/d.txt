@@ -1,0 +1,115 @@
+<span[^>]*font-style:italic[^>]*>
+(.*?)[A|N|T]
+You need to qualify.* with one or more platforms
+<wi num=".+?" entity="(.+?)">(.+?)</wi>
+No such plugin installed: .+ - update failed
+-+END CERTIFICATE-+
+<div[^>]*>
+#!.*python
+data:audio/([^?]+);
+(<TransactionKey>).+?(</TransactionKey>)
+(developerToken>|httpAuthorizationHeader>)[^<]+(</)
+Cannot join #test.*locked
+Plugin (.)+ was not found in repository
+a <[^>]+?>
+<template[^>]*>(.+)</template>
+Server homepage.* is UP
+ *, *
+POST.*example
+<a href='(.*)' on
+([^{]+{[^}]+})+?
+\\{\\$[a-zA-Z]+ .+\\}
+<area shape=\"rect\".*<img src=\"data:image/png
+(([a-z0-9]+)|(`(.+)`))__
+not.*String
+argv 1:.*path\\/to\\/deep.js
+<input.*?>(.*?)<\\/input>
+<.*?br\\/>
+select(.*)elements_from_page_selector(.*)option
+(<meta itemprop=\"author\" content=\")(.+)(\" id=\"author\")>
+((--+==+)|(==+--+))
+Expected configuration value apiKey to be defined.*stripe-connect
+.*Ultra-4
+<h2[^>]*>([^<]+)<\\/h2>
+([0-9]+) AA
+GNU Library Public License .*?version 1
+version (.+),
+[a-z]+ [a-z]+
+<entry.+?>(.+?)<\\/entry>
+EOS.*dictionary value
+Archives</a></h3>(.*)<h3><a id=\"mailinglists\"
+<form[^>]*action=\"/admin/blog_posts/
+We were unable to parse.*Styled Components
+unknown option:.*bar
+label [^>]*for.+input
+identifier[^>]+>urn:issn:X987654321<
+([0-9]+~)(.*?)
+<div align=left>(.*?)<\\/div>
+Could not find class.*Foosrs
+Called #unwrap_err! on #<Opted::Result::Ok:.* @value=\"hello\">
+(.+?) copy ([0-9])
+TypeError.*minsize assert
+.*_([0-9]*)
+<package[^>]+version=['\"]([^\"']+)['\"]
+In.*1
+`.+?'
+Deleting all authorizations associated with your account.*done
+<([^:>]+)[:>]
+<td COLSPAN=2 BGCOLOR=#FFFFFF>(.*?)<\\/td>
+<style.+>
+permission.* could not be found
+(<merchantID>).+(</merchantID>)
+The provided downloadable cartridge 'manifest://test' cannot be loaded.+Name is a required element
+cannot specify.*--puppet-dev.*and.*--puppet-version
+x+(?:y+)z+
+<body.*>(.*)<\\/body>
+Cannot construct .+ from Hash
+A.*=>.*B.*=>.*A
+0*(([0-9])|([1-9][0-9])|([1-4][0-9][0-9])|500)%
+Tracing.*started
+import.*Foo.*from '.\\/foo.pipe'
+<table.*</TABLE>
+((?:\\$|)[^=]+)=([^=]+)
+applying.*?jquery.*?script
+cannot query field.+updateReadonlyTag
+<title[^>]*>(.*?)<\\/title>
+[^a-zA-Z\\-]*width: *([0-9]+)px
+client host.*blocked
+function.(.+).php
+ *([0-9]+) *- *([0-9]+) *
+@incremental-dom.+(enable|disable)-fastRoot
+<div class=\"yt-alert-message\"[^>]*>([^<]+)</div>
+<rect.*? x=\"(.*?)\".*?/>
+/b/.+/o/.+alt=json&projection=full
+[.0-9]+(?:px|pt|pc|em|ex|%|in|mm|cm)|(?:thin|medium|thick)
+Name.*string
+List.*.of_
+select .* from time
+PlayBook.*?RIM Tablet
+-o.*--option=VALUE.*Message about option
+Can't locate object method \"(.*?)\" via package
+erb_start.*erb to widget with widget widget, name Josephine.*erb_end
+RuntimeError: .*sudo!.*Command failed. false
+The screenshot .* is not a valid image
+table test_table has no column named wrong_column.*code 1.*while compiling: INSERT INTO test_table
+@yield[(]['](.*?)['][)]
+<!DOCTYPE svg[^>]*>
+disable_per_environment_manifest.*true.*environment.conf.*does not match the default_manifest
+NetSuite::Records::CashRefund with OPTIONS=(.*) could not be found
+filename.*string
+android.*applewebkit
+<!--REPEAT_SP-->(.*)<!--END_REPEAT_SP-->
+Unable.*coolio.*No module
+<div>(.*?)</div>
+Debugger listening on .*:9000
+ *([^<]*) *<([^>]*)> *
+to.*did 
+body.*:index=>.*:operator_class=>"text_pattern_ops"
+This is just a test.*Paragraph number two
+.*foo
+It works from file!.*It works_from_file
+[^:]*:
+Enqueued Dynflow::SampleJob.*at.*UTC
+
+305
+

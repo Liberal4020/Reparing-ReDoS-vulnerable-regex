@@ -1,0 +1,110 @@
+ *, *
+.*foo
+In.*1
+.*Fans
+[^:]*:
+ *none *
+.*_count
+.*static
+<.*?br/>
+to.*did 
+.*Ultra-4
+<td(.*?)>
+#!.*python
+(<[^>]*?>)
+.*?<(.*?)>
+<div[^>]*>
+List.*.of_
+.*_([0-9]*)
+not.*String
+package .*;
+(.*?)[A|N|T]
+.*/steamapps
+<table(.*?)>
+Name.*string
+POST.*example
+hex_.*_quoted
+starting.*9x9
+sed.*VITO_PORT
+A.*=>.*B.*=>.*A
+c_int_4.*limit:
+<div>(.*?)</div>
+<table.*</TABLE>
+Tracing.*started
+filename.*string
+github.com.*blob
+<a href='(.*)' on
+<(u)>(.*?)<(/(u))>
+the (.*) page for 
+you're (.*), robot
+<!DOCTYPE svg[^>]*>
+<body.*>(.*)</body>
+<value>(.*)</value>
+select .* from time
+<(named-content.*?)>
+<img.*src="(.*)".*/>
+<script .*?</script>
+Gear Size: .*default
+android.*applewebkit
+client host.*blocked
+mainquercrit(.*)qury
+unknown option:.*bar
+EOS.*dictionary value
+PlayBook.*?RIM Tablet
+ *([^<]*) *<([^>]*)> *
+<strong>(.*?)</strong>
+<input.*?>(.*?)</input>
+<rect.*? x="(.*?)".*?/>
+@yield[(]['](.*?)['][)]
+Server homepage.* is UP
+DEBUG.*Fetched room list
+argv 1:.*path/to/deep.js
+<title[^>]*>(.*?)</title>
+Cannot join #test.*locked
+TypeError.*minsize assert
+Unable.*coolio.*No module
+applying.*?jquery.*?script
+<div align=left>(.*?)</div>
+<script[^>]*>(.*?)</script>
+<borders([^>]*)>.*</borders>
+Could not find class.*Foosrs
+Debugger listening on .*:9000
+import.*Foo.*from './foo.pipe'
+Dummy, here is it: #<Person:.*>
+permission.* could not be found
+Can't connect to .* MySQL server
+<span[^>]*font-style:italic[^>]*>
+<form[^>]*action="/admin/blog_posts/
+Enqueued Dynflow::SampleJob.*at.*UTC
+class ShowSourceTestClass.*?def alpha
+The screenshot .* is not a valid image
+GNU Library Public License .*?version 1
+It works from file!.*It works_from_file
+-o.*--option=VALUE.*Message about option
+<!--REPEAT_SP-->(.*)<!--END_REPEAT_SP-->
+<td COLSPAN=2 BGCOLOR=#FFFFFF>(.*?)</td>
+This is just a test.*Paragraph number two
+<a[^>]* class="remove_nested_fields"[^>]*>
+We were unable to parse.*Styled Components
+<area shape="rect".*<img src="data:image/png
+RuntimeError: .*sudo!.*Command failed. false
+Archives</a></h3>(.*)<h3><a id="mailinglists"
+this will run inside a clean "(.*)" directory
+Can't locate object method "(.*?)" via package
+NOTICE.*Finished: command '.*' with 0 failures
+0*(([0-9])|([1-9][0-9])|([1-4][0-9][0-9])|500)%
+select(.*)elements_from_page_selector(.*)option
+You need to qualify.* with one or more platforms
+body.*:index=>.*:operator_class=>"text_pattern_ops"
+cannot specify.*--puppet-dev.*and.*--puppet-version
+Called #unwrap_err! on #<Opted::Result::Ok:.* @value="hello">
+Elle Macpherson.*Jessica-Jane Clement.*Kate Moss.*Katie Price
+Deleting all authorizations associated with your account.*done
+Expected configuration value apiKey to be defined.*stripe-connect
+NetSuite::Records::CashRefund with OPTIONS=(.*) could not be found
+erb_start.*erb to widget with widget widget, name Josephine.*erb_end
+Updating 1 viewer to domain .*There is more than one member team named 'testteam'
+disable_per_environment_manifest.*true.*environment.conf.*does not match the default_manifest
+level of log file:.* must be one of: debug, info, notice, warn, error, fatal, any; received foo
+The provided downloadable cartridge 'manifest://test' cannot be loaded.+Name is a required element
+table test_table has no column named wrong_column.*code 1.*while compiling: INSERT INTO test_table
