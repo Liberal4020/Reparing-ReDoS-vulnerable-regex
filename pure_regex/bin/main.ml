@@ -21,7 +21,11 @@ let input2 = List.hd (read_file "./bin/regex2.txt")
 
 (* let alphabet_set = Parser.Charset.union (Parser.Charset.range 'a' 'z') (Parser.Charset.of_list ['<'; '>'; ':'; '=']) *)
 
-let alphabet_set = Parser.Charset.union (Parser.Charset.range 'a' 'z') (Parser.Charset.of_list ['-'; '<'; '>'; ':'; '='])
+(* let alphabet_set = Parser.Charset.union (Parser.Charset.union (Parser.Charset.range 'a' 'z') (Parser.Charset.range 'A' 'Z')) (Parser.Charset.of_list ['-'; '<'; '>'; ':'; '=';'_']) *)
+
+(* let alphabet_set = Parser.Charset.union (Parser.Charset.range '0' '9') (Parser.Charset.union (Parser.Charset.union (Parser.Charset.range 'a' 'z') (Parser.Charset.range 'A' 'Z')) (Parser.Charset.of_list ['-'; '<'; '>'; ':'; '='; '_'; ' '])) *)
+
+let alphabet_set = Parser.Charset.union (Parser.Charset.range '0' '9') (Parser.Charset.union (Parser.Charset.union (Parser.Charset.range 'a' 'z') (Parser.Charset.range 'A' 'Z')) (Parser.Charset.of_list ['-'; '<'; '>'; ':'; '='; '_']))
 
 
 (* let if_is_failure global_string = if Util.contains global_string "(?!.)." then else *)

@@ -1,0 +1,828 @@
+ ✘  ~/routine   master ±  python routine1.py
+remedy 5.354237130000001
+pure 0.0015328619997490023
+regeq 4.00253594600008
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '\n']
+remedy 5.987239204000161
+pure 0.0015642019998267642
+regeq 3.9436076659999344
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 't\n']
+remedy 6.001096764000067
+pure 0.0017952080002032744
+regeq 3.9951815529998385
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ta\n']
+remedy 5.956784077000066
+pure 0.0017546480003147735
+regeq 3.9113053299997773
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'tab\n']
+remedy 6.628179266000188
+pure 0.0017710849997456535
+regeq 3.9369577450002
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'l\n']
+remedy 7.609677493999698
+pure 0.0017752479998307535
+regeq 4.014583915999992
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'e\n']
+remedy 7.518078449000313
+pure 0.0018233789996884298
+regeq 4.01556183799994
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ' \n']
+remedy 7.713615694000055
+pure 0.0015935159999571624
+regeq 4.038040760000058
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 's\n']
+remedy 8.355419275999793
+pure 0.014614048000112234
+regeq 4.164362346999951
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '_\n']
+remedy 8.161243259999992
+pure 0.01236262899965368
+regeq 4.092185634999623
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'n\n']
+remedy 8.258789504000106
+pure 0.0015574779999951716
+regeq 4.465778479999699
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'I\n']
+remedy 8.40573800400034
+pure 0.0016515899997102679
+regeq 5.10793774800004
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'w\n']
+remedy 8.61459224500004
+pure 0.0016592009997111745
+regeq 4.2755080880001515
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'd\n']
+remedy 9.178470474999813
+pure 0.0016522079999958805
+regeq 5.138748091999787
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'r\n']
+remedy 9.309308700000201
+pure 0.0017808800002967473
+regeq 4.194375284999751
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'T\n']
+remedy 9.29866999800015
+pure 0.0015060830000948044
+regeq 4.555571805999989
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'S\n']
+remedy 8.890391292999993
+pure 0.0015985070003807778
+regeq 4.217537379000078
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'R\n']
+remedy 8.96492349800019
+pure 0.0026924119997602247
+regeq 5.221015053999963
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1\n']
+remedy 9.247236798999893
+pure 0.001555030999952578
+regeq 4.080193088999749
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'O\n']
+remedy 9.790937074999874
+pure 0.0017934879997483222
+regeq 4.100538925999899
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'h\n']
+remedy 9.367968677000135
+pure 0.001771060999999463
+regeq 5.075580026999887
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'g\n']
+remedy 9.733531514000333
+pure 0.0016187510000236216
+regeq 5.110899839000012
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'i\n']
+remedy 10.42881913400015
+pure 0.0015399500002786226
+regeq 4.260040767999726
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'c\n']
+remedy 10.138213484999596
+pure 0.0015261229996212933
+regeq 4.282582946000275
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'o\n']
+remedy 10.772548140999788
+pure 0.0026648090001799574
+regeq 4.835811807000027
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':\n']
+remedy 10.320790944000237
+pure 0.001448154000172508
+regeq 5.270073605000107
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'N\n']
+remedy 11.35883499900001
+pure 0.0016909989999476238
+regeq 5.361285988999953
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'E\n']
+remedy 14.63061701300012
+pure 0.008566362999772537
+regeq 5.826358212000287
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'm\n']
+remedy 14.370943179999813
+pure 0.008594342999913351
+regeq 6.1669941609998205
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'p\n']
+remedy 20.92343679600026
+pure 0.008058535000145639
+regeq 4.363342699999976
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'u\n']
+remedy 15.681580431999919
+pure 0.03976998999996795
+regeq 3.4079160799997226
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'tabl\n']
+remedy 18.86523907899982
+pure 0.010962000000290573
+regeq 4.098812844999884
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'il\n']
+remedy 41.50949343399998
+pure 0.0015904609999779495
+regeq 3.9025654800002485
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'le\n']
+remedy 31.19069963999982
+pure 0.0017128260001300077
+regeq 3.9618387839996103
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'a\n']
+remedy 41.07791325800008
+pure 0.0016097829998216184
+regeq 3.4725941060000878
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ha\n']
+remedy 42.14927753300026
+pure 0.0016439290002381313
+regeq 3.357472529000006
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'st\n']
+remedy 42.39672618800023
+pure 0.0013466690002132964
+regeq 3.3912293019998287
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '_t\n']
+remedy 42.7518721270003
+pure 0.012361788999896817
+regeq 3.4981520730002558
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ' t\n']
+remedy 58.204996019999726
+pure 0.0013668370002051233
+regeq 3.3083947300001455
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'tt\n']
+remedy 60.33654091199969
+pure 0.001378683000439196
+regeq 3.435121122000055
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'e \n']
+remedy 56.17452953999964
+pure 0.0075266200001351535
+regeq 4.474378573000649
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1 \n']
+remedy 60.92375334600001
+pure 0.005734748000577383
+regeq 4.322024097000394
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'O \n']
+remedy 60.75185604900071
+pure 0.014174883000123373
+regeq 4.372569434999605
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'r_\n']
+remedy 72.86488148599983
+pure 0.007758267999633972
+regeq 5.053329055999711
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ra\n']
+remedy 91.72258388400041
+pure 0.00781162899966148
+regeq 5.18511700199997
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'w \n']
+remedy 72.88481805300034
+pure 0.005854744999851391
+regeq 5.595253256999968
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'we\n']
+remedy 125.23107060199982
+pure 0.009269604000110121
+regeq 3.822084993000317
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ': \n']
+remedy 52.200386222000816
+pure 0.0014055709998501698
+regeq 3.7208511179997004
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'T \n']
+remedy 54.17467929199938
+pure 0.001187205999485741
+regeq 3.8276583399992887
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'pa\n']
+remedy 80.18235742199977
+pure 0.0014082999996389844
+regeq 3.3520342330002677
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'o \n']
+remedy 61.89676143399993
+pure 0.0018086479994963156
+regeq 3.9972388950000095
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1a\n']
+remedy 65.80297314299969
+pure 0.0013915580002503702
+regeq 3.9217800099995657
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'g1\n']
+remedy 59.14995759300018
+pure 0.0014272220005295821
+regeq 3.7202496390000306
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'pb\n']
+remedy 57.24768438399951
+pure 0.001340778000667342
+regeq 3.674059922000197
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'S \n']
+remedy 69.64573773399934
+pure 0.0013857900003131363
+regeq 3.5752827709993653
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'g \n']
+remedy 67.61805243799972
+pure 0.0013556700005210587
+regeq 3.5621804490001523
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'g_\n']
+remedy 65.85077032000027
+pure 0.0013757639999312232
+regeq 3.579193307999958
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ca\n']
+remedy 62.08015239899942
+pure 0.0014023129997440265
+regeq 3.460475917000622
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'da\n']
+remedy 66.67075591100001
+pure 0.001431486000001314
+regeq 3.5605227920004836
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'rc\n']
+remedy 79.50621787499949
+pure 0.0013076059995000833
+regeq 3.581017946000429
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'rd\n']
+remedy 81.89815876600005
+pure 0.0014408139995794045
+regeq 3.325051006000649
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ch\n']
+remedy 67.98747449599978
+pure 0.0014484540006378666
+regeq 3.914927296999849
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1_\n']
+remedy 84.27778128499995
+pure 0.001408570000421605
+regeq 3.8883284559997264
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'RI\n']
+remedy 85.06011173299976
+pure 0.001391263000186882
+regeq 3.858787058999951
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'E \n']
+remedy 98.58402346399998
+pure 0.001350177000858821
+regeq 3.444776448000084
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'wa\n']
+remedy 68.68599818699931
+pure 0.0014145459999781451
+regeq 3.645657678999669
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'd \n']
+remedy 91.83700195299934
+pure 0.0013847589998476906
+regeq 3.604835570000432
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'p \n']
+remedy 81.01523299600012
+pure 0.001420697999492404
+regeq 3.5415470239995557
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'p_\n']
+remedy 103.46417608999946
+pure 0.001373641999634856
+regeq 3.2570634020003126
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'p1\n']
+remedy 75.78663589499956
+pure 0.0014745909993507667
+regeq 3.474408081000547
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':_\n']
+remedy 105.31182108099983
+pure 0.0013881269997000345
+regeq 3.670200059999843
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'I \n']
+remedy 80.65123315399978
+pure 0.0013592739996965975
+regeq 3.4468579180002052
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'm \n']
+remedy 78.95186578999983
+pure 0.0013893599998482387
+regeq 3.816390011999829
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'r \n']
+remedy 86.09865484499915
+pure 0.001396583000314422
+regeq 2.7755587210003796
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ma\n']
+remedy 104.38974656099981
+pure 0.0013855010001861956
+regeq 3.921655011000439
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'I1\n']
+remedy 105.76325924499997
+pure 0.0013809550000587478
+regeq 3.7116724859997703
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'IN\n']
+remedy 105.67875570900014
+pure 0.001381645000037679
+regeq 3.876692462000392
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'pe\n']
+remedy 111.39121788899956
+pure 0.0013880209999115323
+regeq 3.868269281000721
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ph\n']
+remedy 98.7478393020001
+pure 0.0014153299998724833
+regeq 3.5886013429999366
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'pi\n']
+remedy 89.52170423300049
+pure 0.0035812739997709286
+regeq 3.8563302559996373
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1b\n']
+remedy 91.56929453599969
+pure 0.0014041799995538895
+regeq 3.7680074589998185
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'md\n']
+remedy 129.4488820810002
+pure 0.001382188000206952
+regeq 3.574811043000409
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 're\n']
+remedy 105.52478222799982
+pure 0.001433183999324683
+regeq 3.592387176000557
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ce\n']
+remedy 88.87409294600002
+pure 0.001343600999462069
+regeq 3.934636201000103
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1e\n']
+remedy 91.30141488899972
+pure 0.0013655559996550437
+regeq 3.505994230000397
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'cg\n']
+remedy 109.78426494900032
+pure 0.0014291640000010375
+regeq 3.752012294999986
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'cm\n']
+remedy 100.13742033400013
+pure 0.0011494699992908863
+regeq 2.9223555819989997
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'c:\n']
+remedy 104.02026188200034
+pure 0.0013778339998680167
+regeq 3.486730405000344
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'g:\n']
+remedy 105.70148646800044
+pure 0.0013807289997203043
+regeq 3.560017773999789
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'gm\n']
+remedy 102.17699371399976
+pure 0.0013951459986856207
+regeq 3.7702306939991104
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'r:\n']
+remedy 109.35038650699971
+pure 0.0014520360000460641
+regeq 3.616991354001584
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'c \n']
+remedy 105.55251957699875
+pure 0.0013796429993817583
+regeq 3.9624821659999725
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'S1\n']
+remedy 104.7613797970007
+pure 0.0013771230005659163
+regeq 3.5239741959994717
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'RT\n']
+remedy 111.538483549999
+pure 0.0013586550012405496
+regeq 3.4885490990000108
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':a\n']
+remedy 130.94609589500033
+pure 0.001283392999539501
+regeq 3.7484729530006007
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'iI\n']
+remedy 132.9418572150007
+pure 0.0013642359990626574
+regeq 3.762735606998831
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'mI\n']
+remedy 115.04841845999908
+pure 0.0013772969996352913
+regeq 3.60516593399916
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'uI\n']
+remedy 116.35600548600087
+pure 0.0013817319995723665
+regeq 3.3965464229986537
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'cl\n']
+remedy 128.6810407339999
+pure 0.001214531001096475
+regeq 3.464275477001138
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'gN\n']
+remedy 104.9812834509994
+pure 0.0014128689999779454
+regeq 3.6594685459986067
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Ib\n']
+remedy 110.4672705360008
+pure 0.0013576269993791357
+regeq 3.686900112999865
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1I\n']
+remedy 121.94733035699937
+pure 0.0014331510010379134
+regeq 4.025991763999627
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '11\n']
+remedy 129.65266341200004
+pure 0.0014681089996884111
+regeq 4.017036998000549
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'NS\n']
+remedy 149.59865794199868
+pure 0.0014590000009775395
+regeq 3.4827593629997864
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'iS\n']
+remedy 145.69340574700072
+pure 0.0015579810005874606
+regeq 3.566395673999068
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'gI\n']
+remedy 135.20613459500055
+pure 0.0014901420017849887
+regeq 3.705623891999494
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'gS\n']
+remedy 137.34906988500006
+pure 0.00149309100015671
+regeq 3.608025224000812
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ER\n']
+remedy 231.52014056400003
+pure 0.0014003260002937168
+regeq 3.608189073998801
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'RN\n']
+remedy 158.88581065299877
+pure 0.0012602389997482533
+regeq 4.088459214999602
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'SE\n']
+remedy 228.4064661960001
+pure 0.001311346999500529
+regeq 3.6926955389990326
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Si\n']
+remedy 145.3549728650014
+pure 0.001398352998876362
+regeq 3.8957013560011546
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1R\n']
+remedy 139.3565338490007
+pure 0.0014324809999379795
+regeq 3.604988061999393
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1o\n']
+remedy 188.44402584599993
+pure 0.001435395999578759
+regeq 3.7135683550004615
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'w1\n']
+remedy 133.188553760001
+pure 0.0014292149990069447
+regeq 3.594533383000453
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'n \n']
+remedy 173.57679319699855
+pure 0.00141290000101435
+regeq 3.785694053998668
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'E1\n']
+remedy 185.98712305299887
+pure 0.0014287239991972456
+regeq 3.368147991001024
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Na\n']
+remedy 171.62684656400052
+pure 0.0014729329996043816
+regeq 3.8029745149997325
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'EN\n']
+remedy 156.83647302200006
+pure 0.0014865449993521906
+regeq 3.556444087998898
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'NN\n']
+remedy 178.40141257100004
+pure 0.001365121999697294
+regeq 4.065528976998394
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1:\n']
+remedy 165.5756409860005
+pure 0.0014693050015921472
+regeq 3.762770590999935
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':r\n']
+remedy 177.6072928859994
+pure 0.0014332869995996589
+regeq 3.664472410999224
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'gg\n']
+remedy 264.779750185
+pure 0.0014622259986936115
+regeq 3.7280569829999877
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'mb\n']
+remedy 187.073390906
+pure 0.0014133579988993006
+regeq 3.93329120099952
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'NE\n']
+remedy 164.13046609499906
+pure 0.001480506998632336
+regeq 3.635821230000147
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'T1\n']
+remedy 156.44663744799982
+pure 0.0014151459999993676
+regeq 3.66095379699982
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':T\n']
+remedy 204.83933113000057
+pure 0.0021355789995141095
+regeq 3.589611301998957
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ET\n']
+remedy 263.13243836400034
+pure 0.0014648510004917625
+regeq 3.9354769260007743
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Il\n']
+remedy 173.64778084799946
+pure 0.0014302459985628957
+regeq 2.9195889249986067
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'No\n']
+remedy 142.95083092200002
+pure 0.0014875120014039567
+regeq 3.424297622001177
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':N\n']
+remedy 211.16625349199967
+pure 0.00140269900111889
+regeq 4.045375970999885
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1O\n']
+remedy 282.58617884200066
+pure 0.0013635040013468824
+regeq 2.9697363230006886
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':h\n']
+remedy 247.76865683300093
+pure 0.001413092999428045
+regeq 3.191611575999559
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'TN\n']
+remedy 187.99522175399943
+pure 0.0014275519988586893
+regeq 3.535190447999412
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Eb\n']
+remedy 165.2658288519997
+pure 0.0013426389996311627
+regeq 3.574663049001174
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':R\n']
+remedy 207.49959662400033
+pure 0.0014207889998942846
+regeq 3.8684778759998153
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Ic\n']
+remedy 199.92999208999936
+pure 0.0014466049997281516
+regeq 3.4454425940002693
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1m\n']
+remedy 240.72518803000094
+pure 0.0014669170013803523
+regeq 3.5216020200023195
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':o\n']
+remedy 166.79196164600216
+pure 0.0013595340024039615
+regeq 3.8950269689994457
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'N:\n']
+remedy 161.43125117400268
+pure 0.0014843059980194084
+regeq 3.7898403849976603
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'TI\n']
+remedy 234.3182654839984
+pure 0.001448822000384098
+regeq 3.5702783039996575
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'II\n']
+remedy 187.6036831550009
+pure 0.0014061090005270671
+regeq 3.645982202000596
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'El\n']
+remedy 327.8657822710011
+pure 0.0013950089996797033
+regeq 3.2929359159970772
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Tl\n']
+remedy 189.92392864000067
+pure 0.0013861569968867116
+regeq 3.6627865539994673
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1l\n']
+remedy 252.33229596399906
+pure 0.0013945959981356282
+regeq 3.9092337290021533
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'wI\n']
+remedy 206.73446740500003
+pure 0.0014654229998996016
+regeq 3.4397292690009635
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'OO\n']
+remedy 195.10422153099717
+pure 0.0014437360005103983
+regeq 3.300625405001483
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'SO\n']
+remedy 214.26360604500223
+pure 0.001422241002728697
+regeq 3.6569649550001486
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'na\n']
+remedy 213.59032308800306
+pure 0.0014243670011637732
+regeq 3.740844638999988
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'rI\n']
+remedy 303.20582724400083
+pure 0.0014293629974417854
+regeq 3.488972749997629
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'cN\n']
+remedy 276.2499854359994
+pure 0.0013192450023780111
+regeq 3.7605710759999056
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':O\n']
+remedy 415.0495275909998
+pure 0.0014341930000227876
+regeq 3.3525234600019758
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'nd\n']
+remedy 326.12987504800185
+pure 0.0014850130028207786
+regeq 3.8163284830006887
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'En\n']
+remedy 182.24724908299686
+pure 0.0014045659991097637
+regeq 3.608456843998283
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'c_\n']
+remedy 317.00345410299997
+pure 0.0014400990003196057
+regeq 3.2726438049976423
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'cn\n']
+remedy 200.01043107999794
+pure 0.0014296459994511679
+regeq 3.6136744690011255
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'cb\n']
+remedy 327.52077154699873
+pure 0.0014721740008099005
+regeq 3.26221246500063
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'co\n']
+remedy 349.8958698009992
+pure 0.0018760320017463528
+regeq 3.6833565669985546
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1c\n']
+remedy 377.89925667900025
+pure 0.0014521449993480928
+regeq 3.67804445100046
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1d\n']
+remedy 241.9642446939979
+pure 0.0014569199993275106
+regeq 3.7078847979973943
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'i1\n']
+remedy 310.4042019260014
+pure 0.001447136000933824
+regeq 3.6341510500024015
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'IE\n']
+remedy 268.6705102720007
+pure 0.0014260059979278594
+regeq 3.8464611769995827
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'O:\n']
+remedy 224.39171749700108
+pure 0.0014053930026420858
+regeq 3.5207762610007194
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1n\n']
+remedy 326.1216014790007
+pure 0.0014206329979060683
+regeq 3.6876142200017057
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'r1\n']
+remedy 236.1365906840001
+pure 0.0013549629984481726
+regeq 3.812512926000636
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'n1\n']
+remedy 322.39926030399874
+pure 0.001394564998918213
+regeq 3.477985877001629
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'EO\n']
+remedy 194.11468459400203
+pure 0.0014347969990922138
+regeq 3.4379725710023195
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'IT\n']
+remedy 237.12091441300072
+pure 0.001519394001661567
+regeq 3.0171744039980695
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'O_\n']
+remedy 337.92422200299916
+pure 0.0013548839997383766
+regeq 3.8627293370009284
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ON\n']
+remedy 251.9502131299996
+pure 0.0014132500000414439
+regeq 3.774970589998702
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Rb\n']
+remedy 261.0365385610021
+pure 0.0014384269998117816
+regeq 3.587161946001288
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'I:\n']
+remedy 342.31374458999926
+pure 0.0014238240000850055
+regeq 3.331736586998886
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'd:\n']
+remedy 214.22063386100126
+pure 0.0013870969996787608
+regeq 3.3926494750012353
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'i:\n']
+remedy 252.18107087799945
+pure 0.0014411359989026096
+regeq 3.645606198999303
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'N \n']
+remedy 437.1954922370023
+pure 0.0014136629979475401
+regeq 3.6505277670003125
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'nN\n']
+remedy 262.29004505600096
+pure 0.001370497000607429
+regeq 3.7036546289964463
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', '1w\n']
+remedy 320.67686334599784
+pure 0.0014888260011503007
+regeq 3.4363757469982374
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'IO\n']
+remedy 275.50329078899813
+pure 0.0014300660004664678
+regeq 3.8820563910012424
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':n\n']
+remedy 235.50891458299884
+pure 0.0019920790000469424
+regeq 3.6056002500008617
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'TO\n']
+remedy 367.83634240000174
+pure 0.0013869950016669463
+regeq 3.495431264000217
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'In\n']
+remedy 278.33265956800096
+pure 0.001471275001676986
+regeq 3.7707521420015837
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'rN\n']
+remedy 239.9366688079972
+pure 0.0013868899986846372
+regeq 3.7536295559984865
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Io\n']
+remedy 271.232319232
+pure 0.0014513460009766277
+regeq 3.3772638240006927
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'nO\n']
+remedy 241.29379365600107
+pure 0.0014250960011850111
+regeq 3.584719167000003
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'rb\n']
+remedy 327.0153963749981
+pure 0.0014524369980790652
+regeq 3.5757861560014135
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Nh\n']
+remedy 312.8849338639993
+pure 0.0014372249970620032
+regeq 3.4257876359988586
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'T:\n']
+remedy 373.3995350820005
+pure 0.001418577001459198
+regeq 3.6510970439994708
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'w:\n']
+remedy 361.1450888959989
+pure 0.0014687559996673372
+regeq 3.451730710999982
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'iT\n']
+remedy 273.3394184909994
+pure 0.001433034001820488
+regeq 3.9121833790013625
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'RS\n']
+remedy 358.30144768000173
+pure 0.001460984000004828
+regeq 3.3638618850018247
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', ':b\n']
+remedy 404.19980864199897
+pure 0.0018548680018284358
+regeq 3.59738753900092
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'u \n']
+remedy 483.1717576230003
+pure 0.0013945739992777817
+regeq 3.7569257489994925
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Ih\n']
+remedy 388.624229295001
+pure 0.004360947001259774
+regeq 3.6906270350009436
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'OT\n']
+remedy 268.3790436879972
+pure 0.0013599699996120762
+regeq 3.6993872910024947
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'mN\n']
+remedy 367.2487553150022
+pure 0.001496484997915104
+regeq 3.550616481996258
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'ST\n']
+remedy 443.364895187995
+pure 0.0014493319977191277
+regeq 3.480281536001712
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'wd\n']
+remedy 276.9994863989996
+pure 0.0014333639992401004
+regeq 3.5710270589988795
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'E_\n']
+remedy 265.96935264900094
+pure 0.001417284998751711
+regeq 3.454447625001194
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'gb\n']
+remedy 438.00041933999455
+pure 0.001481962994148489
+regeq 3.2509531380055705
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'nR\n']
+remedy 426.6050485799933
+pure 0.0014239969968912192
+regeq 3.6118800429976545
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'EE\n']
+remedy 479.700591711
+pure 0.0014044209965504706
+regeq 3.7703696269963984
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'Im\n']
+remedy 284.7653765720024
+pure 0.001626090997888241
+regeq 3.4343978250035434
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'OE\n']
+remedy 361.70254233000014
+pure 0.0014001809977344237
+regeq 3.5530075899951044
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'gr\n']
+remedy 740.6488151259982
+pure 0.0014581989962607622
+regeq 3.6725803049994283
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'OR\n']
+remedy 356.76815958099905
+pure 0.0015070310037117451
+regeq 3.7055006549999234
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'uN\n']
+remedy 476.1853083380047
+pure 0.0014775590025237761
+regeq 3.5214120090022334
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'TE\n']
+remedy 572.9147934560024
+pure 0.0018352219994994812
+regeq 3.3480170559996623
+['table test_table has no column named wrong_columncode 1while compiling: INSERT INTO test_table\n', 'gT\n']
+remedy 458.5069886340061
+pure 0.001479625003412366
+regeq 3.71193319199665

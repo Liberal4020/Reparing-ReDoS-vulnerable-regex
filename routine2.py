@@ -3,7 +3,7 @@ import subprocess
 import time
 
 time_sta = time.perf_counter()
-fr = open('./REMEDY-SP2022/testcases/sample.txt', 'r')
+fr = open('./REMEDY-SP2022/testcases/sample50.txt', 'r')
 readlines_list = fr.readlines()
 fr.close()
 
@@ -13,7 +13,7 @@ fw.close()
 
 while True:
   time_sta1 = time.perf_counter()
-  result = subprocess.run(["timeout","100000000000000000000000000000000","java","-jar","REMEDY-SP2022.jar","repair","testcases/sample.txt"], cwd="./REMEDY-SP2022", stdout=subprocess.PIPE, text=True)
+  result = subprocess.run(["timeout","100000000000000000000000000000000","java","-jar","REMEDY-SP2022.jar","repair","testcases/sample50.txt"], cwd="./REMEDY-SP2022", stdout=subprocess.PIPE, text=True)
   fw = open('./pure_regex/bin/regex2.txt', 'w')
   fw.write(result.stdout)
   fw.close()
@@ -56,7 +56,7 @@ while True:
     print("bug")
     break
   else:
-    with open('./REMEDY-SP2022/testcases/sample.txt', 'r+') as file:
+    with open('./REMEDY-SP2022/testcases/sample50.txt', 'r+') as file:
       line = file.readlines()
       if str_list[0] != "\n\n":
         line.insert(line.index('+++\n'), str_list[0])
